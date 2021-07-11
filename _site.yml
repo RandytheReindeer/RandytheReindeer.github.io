@@ -1,8 +1,0 @@
-Name: "Portfolio"
-navbar:
-  title: "Portfolio"
-  left:
-    - text: "About"
-      href: index.html
-    - text: "Case Study 01"
-      href: Budweiser-Case-Study---Randy-Kim.html
