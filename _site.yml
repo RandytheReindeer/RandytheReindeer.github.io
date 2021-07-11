@@ -1,0 +1,10 @@
+Name: "Portfolio"
+navbar:
+  title: "Portfolio"
+  left:
+    - text: "About"
+      href: index.html
+      icon: fa-user-circle fa-lg
+    - text: "Case Study 01"
+      href: Budweiser-Case-Study---Randy-Kim.html
+      icon: fa-chart-bar fa-lg
