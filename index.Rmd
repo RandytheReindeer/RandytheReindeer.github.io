@@ -1,0 +1,34 @@
+---
+title: "About Me"
+author: "**Randy Kim**"
+output: html_document
+---
+
+<div style = "float:right;position: relative; top:-10px;">
+![](me.jpg)
+
+</div>
+Randygkim@gmail.com  
+Camarillo, California, United States
+________________________________________________________________________________
+
+### **Experience**
+#### _Industrial Engineer II - Meggitt_
+* Full-Time | 2019 - 2021
+
+### **Education**
+* _Southern Methodist University_
+    * Master of Science - MS, Data Science | 2021 - 2022
+
+* _Georgia Institute of Technology_
+    * Bachelor of Science - BS, Aerospace Engineering | 2016 - 2019
+
+### **Skills**
+R             | Python |
+SAS           | SQL |
+Simio         | Power Bi |
+SolidWorks    | Matlab 
+
+### **Links**
+* <a href="https://www.linkedin.com/in/randygkim/">Linkedin</a>
+* <a href="https://github.com/RandytheReindeer">GitHub</a>
